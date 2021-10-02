@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , I'm Aravinda krishnan 👋
 
 <!--
 **Aravindakrishnan/Aravindakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Aravinda krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindakrishnan&show_icons=true&theme=dark)
+![Aravinda krishnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aravindakrishnan&show_icons=true&theme=discord_old_blurple)
