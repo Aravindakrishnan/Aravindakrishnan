@@ -1,5 +1,4 @@
 ## 👋 Hi there, I'm Aravinda krishnan 
-<hr>
 - 🌱 I’m currently learning Web 3.0 && Solidity
 - 🤖 I'm looking forward to learning more technologies.
 
