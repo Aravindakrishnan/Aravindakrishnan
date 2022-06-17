@@ -1,4 +1,4 @@
-## Hi There 👋
+## 👋 Hi there, I'm Aravinda krishnan 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,tailwind)](https://skillicons.dev)
 
