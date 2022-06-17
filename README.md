@@ -1,6 +1,11 @@
 ## 👋 Hi there, I'm Aravinda krishnan 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,tailwind)](https://skillicons.dev)
+## Frontend 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
+## Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!--
 **Aravindakrishnan/Aravindakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
