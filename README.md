@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,aws,tailwind)](https://skillicons.dev)
 
 <!--
 **Aravindakrishnan/Aravindakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
