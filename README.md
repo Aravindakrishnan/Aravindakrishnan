@@ -3,11 +3,11 @@
 - 🤖 I'm looking forward to learning more technologies.
 
 
-## Frontend 
+### Frontend 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](https://skillicons.dev)
-## Backend
+### Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
-## Cloud
+### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
